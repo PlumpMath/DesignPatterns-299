@@ -1,0 +1,5 @@
+D:\Desktop\OODPatterns\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Desktop\OODPatterns\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Desktop\OODPatterns\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Desktop\OODPatterns\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Desktop\OODPatterns\Prototype\Prototype\obj\Debug\Prototype.pdb
