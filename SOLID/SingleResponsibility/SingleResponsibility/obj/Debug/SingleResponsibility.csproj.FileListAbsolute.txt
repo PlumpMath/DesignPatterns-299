@@ -1,0 +1,12 @@
+E:\CsharpProjects\Patterns\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+E:\CsharpProjects\Patterns\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+E:\CsharpProjects\Patterns\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+E:\CsharpProjects\Patterns\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.csprojResolveAssemblyReference.cache
+E:\CsharpProjects\Patterns\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+E:\CsharpProjects\Patterns\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.pdb
+D:\Desktop\OODPatterns\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+D:\Desktop\OODPatterns\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+D:\Desktop\OODPatterns\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.pdb
+D:\Desktop\OODPatterns\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+D:\Desktop\OODPatterns\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+D:\Desktop\OODPatterns\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.csprojResolveAssemblyReference.cache
